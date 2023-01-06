@@ -3,7 +3,7 @@ import Home from './pages/Home.svelte';
 import About from './pages/About.svelte';
 import "smelte/src/tailwind.css" ;
 
-let path = 'map'
+let path = 'home'
 // const src = './assets/pattern.png'
 // $: bgImage = `background-image: url("${src}");`;
 </script>
