@@ -4,7 +4,7 @@
     path = 'detail';
   };
   const jumpToMap = (e) => {
-    path = 'detail';
+    path = 'map';
     setTimeout(() => {
       window.scrollTo(0, document.body.scrollHeight);
     }, 0);
